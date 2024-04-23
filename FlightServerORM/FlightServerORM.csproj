@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <OutputType>Exe</OutputType>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\FlightModel\FlightModel.csproj" />
+      <ProjectReference Include="..\FlightNetwork\FlightNetwork.csproj" />
+      <ProjectReference Include="..\FlightPersistenceORM\FlightPersistenceORM.csproj" />
+      <ProjectReference Include="..\FlightsServices\FlightsServices.csproj" />
+    </ItemGroup>
+
+</Project>

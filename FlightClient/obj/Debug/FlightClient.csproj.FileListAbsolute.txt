@@ -1,0 +1,4 @@
+C:\Users\40771\RiderProjects\MPP_Csharp_Server_Client_Rest\FlightClient\obj\Debug\FlightClient.csproj.AssemblyReference.cache
+C:\Users\40771\RiderProjects\MPP_Csharp_Server_Client_Rest\FlightClient\obj\Debug\FlightClient.csproj.SuggestedBindingRedirects.cache
+C:\Users\40771\RiderProjects\MPP_Csharp_Server_Client_Rest\FlightClient\obj\Debug\FlightClient.exe
+C:\Users\40771\RiderProjects\MPP_Csharp_Server_Client_Rest\FlightClient\obj\Debug\FlightClient.pdb

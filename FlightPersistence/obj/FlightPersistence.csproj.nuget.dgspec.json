@@ -1,0 +1,71 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Documente\\GitHub\\proiect-csharp\\MPP_Csharp_Server_Client\\FlightPersistence\\FlightPersistence.csproj": {}
+  },
+  "projects": {
+    "C:\\Documente\\GitHub\\proiect-csharp\\MPP_Csharp_Server_Client\\FlightModel\\FlightModel.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Documente\\GitHub\\proiect-csharp\\MPP_Csharp_Server_Client\\FlightModel\\FlightModel.csproj",
+        "projectName": "FlightModel",
+        "projectPath": "C:\\Documente\\GitHub\\proiect-csharp\\MPP_Csharp_Server_Client\\FlightModel\\FlightModel.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "C:\\Documente\\GitHub\\proiect-csharp\\MPP_Csharp_Server_Client\\FlightPersistence\\FlightPersistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Documente\\GitHub\\proiect-csharp\\MPP_Csharp_Server_Client\\FlightPersistence\\FlightPersistence.csproj",
+        "projectName": "FlightPersistence.csproj",
+        "projectPath": "C:\\Documente\\GitHub\\proiect-csharp\\MPP_Csharp_Server_Client\\FlightPersistence\\FlightPersistence.csproj",
+        "packagesPath": "C:\\Users\\40771\\.nuget\\packages\\",
+        "outputPath": "C:\\Documente\\GitHub\\proiect-csharp\\MPP_Csharp_Server_Client\\FlightPersistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\40771\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "v4.8"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net40": {
+            "targetAlias": "v4.8",
+            "projectReferences": {
+              "C:\\Documente\\GitHub\\proiect-csharp\\MPP_Csharp_Server_Client\\FlightModel\\FlightModel.csproj": {
+                "projectPath": "C:\\Documente\\GitHub\\proiect-csharp\\MPP_Csharp_Server_Client\\FlightModel\\FlightModel.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net40": {
+          "targetAlias": "v4.8"
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

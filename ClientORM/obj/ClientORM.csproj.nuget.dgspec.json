@@ -1,0 +1,284 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\40771\\RiderProjects\\MPP_Csharp_Server_Client_Rest\\ClientORM\\ClientORM.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\40771\\RiderProjects\\MPP_Csharp_Server_Client_Rest\\ClientORM\\ClientORM.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\40771\\RiderProjects\\MPP_Csharp_Server_Client_Rest\\ClientORM\\ClientORM.csproj",
+        "projectName": "ClientORM",
+        "projectPath": "C:\\Users\\40771\\RiderProjects\\MPP_Csharp_Server_Client_Rest\\ClientORM\\ClientORM.csproj",
+        "packagesPath": "C:\\Users\\40771\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\40771\\RiderProjects\\MPP_Csharp_Server_Client_Rest\\ClientORM\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\40771\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\40771\\RiderProjects\\MPP_Csharp_Server_Client_Rest\\FlightModel\\FlightModel.csproj": {
+                "projectPath": "C:\\Users\\40771\\RiderProjects\\MPP_Csharp_Server_Client_Rest\\FlightModel\\FlightModel.csproj"
+              },
+              "C:\\Users\\40771\\RiderProjects\\MPP_Csharp_Server_Client_Rest\\FlightNetwork\\FlightNetwork.csproj": {
+                "projectPath": "C:\\Users\\40771\\RiderProjects\\MPP_Csharp_Server_Client_Rest\\FlightNetwork\\FlightNetwork.csproj"
+              },
+              "C:\\Users\\40771\\RiderProjects\\MPP_Csharp_Server_Client_Rest\\FlightPersistenceORM\\FlightPersistenceORM.csproj": {
+                "projectPath": "C:\\Users\\40771\\RiderProjects\\MPP_Csharp_Server_Client_Rest\\FlightPersistenceORM\\FlightPersistenceORM.csproj"
+              },
+              "C:\\Users\\40771\\RiderProjects\\MPP_Csharp_Server_Client_Rest\\FlightServerORM\\FlightServerORM.csproj": {
+                "projectPath": "C:\\Users\\40771\\RiderProjects\\MPP_Csharp_Server_Client_Rest\\FlightServerORM\\FlightServerORM.csproj"
+              },
+              "C:\\Users\\40771\\RiderProjects\\MPP_Csharp_Server_Client_Rest\\FlightsServices\\FlightsServices.csproj": {
+                "projectPath": "C:\\Users\\40771\\RiderProjects\\MPP_Csharp_Server_Client_Rest\\FlightsServices\\FlightsServices.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\40771\\RiderProjects\\MPP_Csharp_Server_Client_Rest\\FlightModel\\FlightModel.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\40771\\RiderProjects\\MPP_Csharp_Server_Client_Rest\\FlightModel\\FlightModel.csproj",
+        "projectName": "FlightModel",
+        "projectPath": "C:\\Users\\40771\\RiderProjects\\MPP_Csharp_Server_Client_Rest\\FlightModel\\FlightModel.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "C:\\Users\\40771\\RiderProjects\\MPP_Csharp_Server_Client_Rest\\FlightNetwork\\FlightNetwork.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\40771\\RiderProjects\\MPP_Csharp_Server_Client_Rest\\FlightNetwork\\FlightNetwork.csproj",
+        "projectName": "FlightNetwork",
+        "projectPath": "C:\\Users\\40771\\RiderProjects\\MPP_Csharp_Server_Client_Rest\\FlightNetwork\\FlightNetwork.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {
+              "C:\\Users\\40771\\RiderProjects\\MPP_Csharp_Server_Client_Rest\\FlightModel\\FlightModel.csproj": {
+                "projectPath": "C:\\Users\\40771\\RiderProjects\\MPP_Csharp_Server_Client_Rest\\FlightModel\\FlightModel.csproj"
+              },
+              "C:\\Users\\40771\\RiderProjects\\MPP_Csharp_Server_Client_Rest\\FlightsServices\\FlightsServices.csproj": {
+                "projectPath": "C:\\Users\\40771\\RiderProjects\\MPP_Csharp_Server_Client_Rest\\FlightsServices\\FlightsServices.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "C:\\Users\\40771\\RiderProjects\\MPP_Csharp_Server_Client_Rest\\FlightPersistenceORM\\FlightPersistenceORM.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\40771\\RiderProjects\\MPP_Csharp_Server_Client_Rest\\FlightPersistenceORM\\FlightPersistenceORM.csproj",
+        "projectName": "FlightPersistenceORM",
+        "projectPath": "C:\\Users\\40771\\RiderProjects\\MPP_Csharp_Server_Client_Rest\\FlightPersistenceORM\\FlightPersistenceORM.csproj",
+        "packagesPath": "C:\\Users\\40771\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\40771\\RiderProjects\\MPP_Csharp_Server_Client_Rest\\FlightPersistenceORM\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\40771\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\40771\\RiderProjects\\MPP_Csharp_Server_Client_Rest\\FlightModel\\FlightModel.csproj": {
+                "projectPath": "C:\\Users\\40771\\RiderProjects\\MPP_Csharp_Server_Client_Rest\\FlightModel\\FlightModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.0-preview.3.23174.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[8.0.0-preview.3.23174.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite.Core": {
+              "target": "Package",
+              "version": "[8.0.0-preview.3.23174.2, )"
+            },
+            "System.Data.SQLite": {
+              "target": "Package",
+              "version": "[1.0.117, )"
+            },
+            "log4net": {
+              "target": "Package",
+              "version": "[2.0.15, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\40771\\RiderProjects\\MPP_Csharp_Server_Client_Rest\\FlightServerORM\\FlightServerORM.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\40771\\RiderProjects\\MPP_Csharp_Server_Client_Rest\\FlightServerORM\\FlightServerORM.csproj",
+        "projectName": "FlightServerORM",
+        "projectPath": "C:\\Users\\40771\\RiderProjects\\MPP_Csharp_Server_Client_Rest\\FlightServerORM\\FlightServerORM.csproj",
+        "packagesPath": "C:\\Users\\40771\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\40771\\RiderProjects\\MPP_Csharp_Server_Client_Rest\\FlightServerORM\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\40771\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\40771\\RiderProjects\\MPP_Csharp_Server_Client_Rest\\FlightModel\\FlightModel.csproj": {
+                "projectPath": "C:\\Users\\40771\\RiderProjects\\MPP_Csharp_Server_Client_Rest\\FlightModel\\FlightModel.csproj"
+              },
+              "C:\\Users\\40771\\RiderProjects\\MPP_Csharp_Server_Client_Rest\\FlightNetwork\\FlightNetwork.csproj": {
+                "projectPath": "C:\\Users\\40771\\RiderProjects\\MPP_Csharp_Server_Client_Rest\\FlightNetwork\\FlightNetwork.csproj"
+              },
+              "C:\\Users\\40771\\RiderProjects\\MPP_Csharp_Server_Client_Rest\\FlightPersistenceORM\\FlightPersistenceORM.csproj": {
+                "projectPath": "C:\\Users\\40771\\RiderProjects\\MPP_Csharp_Server_Client_Rest\\FlightPersistenceORM\\FlightPersistenceORM.csproj"
+              },
+              "C:\\Users\\40771\\RiderProjects\\MPP_Csharp_Server_Client_Rest\\FlightsServices\\FlightsServices.csproj": {
+                "projectPath": "C:\\Users\\40771\\RiderProjects\\MPP_Csharp_Server_Client_Rest\\FlightsServices\\FlightsServices.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\40771\\RiderProjects\\MPP_Csharp_Server_Client_Rest\\FlightsServices\\FlightsServices.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\40771\\RiderProjects\\MPP_Csharp_Server_Client_Rest\\FlightsServices\\FlightsServices.csproj",
+        "projectName": "FlightsServices",
+        "projectPath": "C:\\Users\\40771\\RiderProjects\\MPP_Csharp_Server_Client_Rest\\FlightsServices\\FlightsServices.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {
+              "C:\\Users\\40771\\RiderProjects\\MPP_Csharp_Server_Client_Rest\\FlightModel\\FlightModel.csproj": {
+                "projectPath": "C:\\Users\\40771\\RiderProjects\\MPP_Csharp_Server_Client_Rest\\FlightModel\\FlightModel.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    }
+  }
+}
